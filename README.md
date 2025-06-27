@@ -4,7 +4,7 @@
 
 **`Desenvolvedora FRONT-END`**
 
-Me chamo Ana Beatriz, tenho 32 anos, curso Analise e Desenvolvimento de Sistemas e sou de São Paulo. Estou em transição de carreira, pois sou apaixonada por tecnologia  e amo compartilhar meus conhecimentos. Estou em processo do Desenvolvimento Full Stack!  Também possuo um canal no YouTube "[Cozy Be](https://www.youtube.com/@canalcozybe)", onde compartilho vídeos de games.
+Me chamo Ana Beatriz, tenho 32 anos, curso Analise e Desenvolvimento de Sistemas e sou de São Paulo. Estou em transição de carreira, pois sou apaixonada por tecnologia  e amo compartilhar meus conhecimentos. Estou em processo do Desenvolvimento Full Stack!  Também possuo um canal no YouTube "[Cozy Be](https://www.youtube.com/@canalcozybeah)", onde compartilho vídeos de games.
 
 
 <div style="display: flex; align-items: center; gap: 10px;">
