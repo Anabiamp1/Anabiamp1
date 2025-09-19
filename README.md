@@ -1,6 +1,6 @@
 ## ✨ ![Ana Beatriz](https://img.shields.io/badge/%20-EU%20SOU%20A%20ANA%20BEATRIZ!-d804a8)
 
-####  DESENVOLVEDORA FRONT-END 
+####  DESENVOLVEDORA FULLSTACK
 
 **`Desenvolvedora FRONT-END`**
 
