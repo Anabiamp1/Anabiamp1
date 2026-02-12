@@ -87,6 +87,34 @@ Me chamo Ana Beatriz, tenho 32 anos, curso Engenharia de Software e sou de São 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;"               src="https://camo.githubusercontent.com/f113bc548908db7895acc71a2af32d510006dc897be9637c8f04fa4727dd9aed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d61" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://camo.githubusercontent.com/7e5af4a62217d9e22da2ff2d94c0aeacfee22c51c693c26a2d960524c2e1d4f0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d767565" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473" 
+/>
+
+
+
 
 <br/>
 <br/>
